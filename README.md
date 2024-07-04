@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi there! I am Varun 😄
 - 🔭 I’m currently pursuing Data Science
 - 🌱 I’m currently learning Web Development and Deep Learning
-- 👯 I’m looking to collaborate on multiple open source projects
+- 👯 I’m looking to collaborate on multiple open source projects and build applications
 
 Here are my earned badges! 🏅
 
